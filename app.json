@@ -8,6 +8,26 @@
       "expo-router"
     ],
     "name": "react_native_jobApp",
-    "slug": "react_native_jobApp"
+    "slug": "react_native_jobApp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "9df1c50f-f782-41d7-91a5-7a6ed3518432"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/9df1c50f-f782-41d7-91a5-7a6ed3518432"
+    },
+    "android": {
+      "package": "com.arivan23.react_native_jobApp"
+    },
+    "ios": {
+      "bundleIdentifier": "react-native-jobsearch"
+    }
   }
 }
